@@ -10,7 +10,7 @@ The main purpose of the task is to automate the task and save the engineer's man
 
 To view the PowerShell script and step-by-step process, see the GitHub repository link below.
 (Click the link below for the PowerShell script.)
-https://github.com/prasad-metkar/AzureAutomationAccountRestartVM.git
+https://github.com/prasad-metkar/Azure-Automation-Account-Restart-Virtual-Machine
 
 
 ***Step by Step process of Azure Automation Account Runbook configuration for Restart Virtual Machine:***
