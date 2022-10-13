@@ -4,7 +4,7 @@ We have several solutions to start and stop the virtual machines from the Azure 
 
 Well, we have a solution for that. Azure automation account - Custom runbook. 
 
-In this article, we will see how we can configure an Azure VM restart at the scheduled time.
+In this article, we will see how we can configure an Azure VM restart at the scheduled time with Azure Automation Account.
 
 The main purpose of the task is to automate the task and save the engineer's manual work and perform the activity at scheduled times.
 
